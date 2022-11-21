@@ -1,1 +1,1 @@
-# Mega-Sena
+# Projeto App Mega-Sena
